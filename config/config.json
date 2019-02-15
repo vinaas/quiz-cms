@@ -1,0 +1,7 @@
+{
+    "name": "EasyWeb AdminCP",
+    "version": 1.0,
+    "apiEndPoint" : "http://173.249.39.61:8899",
+	"jsreportUrl": "http://173.249.39.61:3000",
+    "websiteTitle" : "Sở Nội vụ tỉnh Đắk Nông"
+}
